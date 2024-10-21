@@ -1,0 +1,383 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none !important;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+nav ul li a {
+    color: black;
+    transition: 0.3s;
+}
+nav ul li a:hover{
+    color: #fe3f40;
+}
+
+.active{
+    color: #fe3f40;
+}
+
+
+.logo h4 {
+    font-size: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #03a4ed;
+    line-height: 100px;
+}
+
+.logo h4 span {
+    color: #fe3f40;
+}
+
+.red-button a {
+    color: #fff !important;
+    padding: 0px 20px;
+    font-weight: 400;
+    background-color: #fe3f40;
+    border-radius: 23px;
+    padding: 10px 20px;
+    font-weight: 400;
+    transition: 0.3s;
+}
+.red-button a:hover{
+    background-color: #03a4ed;
+}
+
+.sec1:after {
+    content: '';
+    background-image: url(https://templatemo.com/templates/templatemo_562_space_dynamic/assets/images/baner-dec-left.png);
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 0;
+    top: 100px;
+    width: 193px;
+    height: 467px;
+}
+
+.left-content h6 {
+    text-transform: uppercase;
+    font-size: 18px;
+    color: #fe3f40;
+    margin-bottom: 15px;
+}
+
+.left-content h2 {
+    font-size: 50px;
+    font-weight: 700;
+    color: #2a2a2a;
+    line-height: 72px;
+}
+
+.left-content h2 em {
+    color: #03a4ed;
+    font-style: normal;
+}
+
+.left-content h2 span {
+    color: #fe3f40;
+}
+
+.left-content p {
+    margin: 20px 0px;
+    font-size: 15px;
+    line-height: 30px;
+    color: #2a2a2a;
+}
+
+.left-content form {
+    margin-top: 30px;
+    width: 470px;
+    height: 66px;
+    position: relative;
+}
+
+.left-content form input {
+    width: 470px;
+    height: 66px;
+    background-color: #03a4ed;
+    border-radius: 33px;
+    border: none;
+    outline: none;
+    padding: 0px 25px;
+    color: white !important;
+    letter-spacing: 0.25px;
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.left-content form button {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    display: inline-block;
+    background-color: #fff;
+    font-size: 15px;
+    font-weight: 500;
+    color: #fe3f40;
+    text-transform: capitalize;
+    padding: 12px 25px;
+    border-radius: 23px;
+    letter-spacing: 0.25px;
+    outline: none;
+    border: none;
+}
+
+.sec2 {
+    background-image: url(https://templatemo.com/templates/templatemo_562_space_dynamic/assets/images/about-bg.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    padding: 140px 0px 120px 0px;
+}
+
+ .item h4 {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 12px;
+}
+
+ .item p {
+    color: #fff;
+    font-size: 15px;
+    line-height: 30px;
+}
+
+.sec3-heading h2 {
+    font-size: 30px;
+    text-transform: capitalize;
+    color: #2a2a2a;
+    font-weight: 700;
+    letter-spacing: 0.25px;
+    position: relative;
+    z-index: 2;
+    line-height: 44px;
+}
+
+.sec3-heading h2 em {
+    color: #03a4ed;
+}
+
+.sec3-heading h2 span {
+    color: #fe3f40;
+}
+
+.sec3-heading p {
+    margin-top: 30px;
+    margin-bottom: 60px;
+    font-size: 15px;
+    line-height: 30px;
+    color: #2a2a2a;
+}
+
+.item4 {
+    background-color: #fff;
+    text-align: center;
+    padding: 50px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.sec4-heading h2 {
+    text-align: center;
+    margin: 0px 90px 0px 90px;
+    font-size: 30px;
+    text-transform: capitalize;
+    color: #2a2a2a;
+    font-weight: 700;
+    letter-spacing: 0.25px;
+    ;
+    line-height: 44px;
+}
+
+.cont4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.sec4-heading h2 em {
+    color: #03a4ed;
+}
+
+.sec4-heading h2 span {
+    color: #fe3f40;
+}
+
+.left-image5 {
+    position: relative;
+}
+
+.on-pic {
+    background-color: #fff;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    margin-right: 75px;
+    position: absolute;
+    margin-top: -100px;
+    padding: 30px;
+}
+
+.on-pic ul li i {
+    color: #fe3f40;
+}
+
+.left-image5 h4 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #2a2a2a;
+    margin: 20px 0px 15px 0px;
+}
+
+.blue-button {
+    position: absolute;
+    bottom: -80px;
+    left: 0;
+}
+
+.blue-button button {
+    display: inline-block;
+    background-color: #03a4ed;
+    font-size: 15px;
+    font-weight: 400;
+    color: #fff;
+    text-transform: capitalize;
+    padding: 12px 25px;
+    border-radius: 23px;
+    letter-spacing: 0.25px;
+    border: none;
+}
+
+.right-image img {
+    border-radius: 25px;
+}
+
+.right-pics i {
+    color: #fe3f40;
+}
+
+.top-pic {
+    text-align: right;
+    margin-top: -80px;
+}
+
+footer {
+    height: 600px;
+    background-image: url(https://templatemo.com/templates/templatemo_562_space_dynamic/assets/images/contact-bg.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.contact {
+    margin-left: 30px;
+    position: relative;
+    background-color: #fff;
+    padding: 60px 30px;
+    border-radius: 20px;
+}
+
+.contact input {
+    width: 100%;
+    height: 46px;
+    border-radius: 33px;
+    background-color: #d1f3ff;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    font-weight: 300;
+    color: #2a2a2a;
+    padding: 0px 20px;
+    margin-bottom: 20px;
+}
+
+.message {
+    width: 100%;
+    height: 140px;
+    border-radius: 20px;
+    background-color: #d1f3ff;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    font-weight: 300;
+    color: #2a2a2a;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+}
+
+.foot-button {
+    background-color: #03a4ed;
+    font-size: 15px;
+    font-weight: 400;
+    color: #fff;
+    text-transform: capitalize;
+    padding: 12px 25px;
+    border-radius: 23px;
+    letter-spacing: 0.25px;
+    border: none;
+    outline: none;
+    transition: .3s;
+}
+
+.foot-button:hover{
+    background-color: #fe3f40;
+}
+
+
+
+
+@media (max-width: 600px){
+
+header nav{
+    display: none;
+}
+.left-content h6{
+    font-size: 23px;
+}
+.left-content h2{
+    font-size: 17px;
+}
+.left-content form{
+    display: none;
+}
+.left-content p{
+    width: 60%;
+    font-size: 18px;
+}
+.right-image img{
+    width: 70%;
+}
+.left-image img{
+    width: 77%;
+}
+.item{
+    width: 70%;
+}
+.resp{
+    width: 80%;
+}
+.left-image2 img{
+    width: 79%;
+}
+.logo{
+    width: 100%;
+}
+.sec3-heading h2{
+    width: 70%;
+}
+.sec3-heading p{
+    width: 66%;
+}
+.left-image2{
+    width: 77%;
+}
+.sec4-heading h2 {
+    margin: 0;
+    font-size: larger;
+}
+.top-pic img{
+    display: none;
+}
+}
